@@ -66,7 +66,7 @@ nav {
 
 .container__left {
   flex: 1;
-  background-image: url("/storage/emulated/0/Download/bg.jpg");
+  background-image: url("https://github.com/shailendrajoshi-lab/Responsive-Landing/blob/main/bg.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
